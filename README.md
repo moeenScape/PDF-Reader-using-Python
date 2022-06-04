@@ -6,5 +6,5 @@ book = open('bookname.pdf', 'rb')
 -->put pdf and code in same folder.
 ---> find out from which page book tropic or story start:
      * set from loop range(start page, pages)
-     *page = pdfReader.getPage(7) ahange 7 to start page.
+     *page = pdfReader.getPage(7) change 7 to start page.
 
